@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kitchenette</string>
+    <string name="collegelogo">College Logo</string>
+    <string name="kitchenette">Kitchenette</string>
+    <string name="veg">Veg Food :</string>
+    <string name="nveg">Non-veg Food :</string>
+    <string name="hosteller">Hosteler :</string>
+    <string name="dayscholar">Day Scholar :</string>
+    <string name="hintveg">veg food</string>
+    <string name="hintnveg">non-veg food</string>
+    <string name="hinthosteller">hosteler</string>
+    <string name="hintdayscholar">day scholar</string>
+    <string name="getupdate">Get Update</string>
+</resources>
